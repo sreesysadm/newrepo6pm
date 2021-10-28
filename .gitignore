@@ -3,3 +3,7 @@
 *.net
 
 !third.net
+
+[aeiou]*.php
+
+
